@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   <string-array name="array_list_first">
+       <item>基本设置</item>
+       <item>音视频设置</item>
+       <item>协议设置</item>
+       <item>诊断维护</item>
+   </string-array>
+</resources>
